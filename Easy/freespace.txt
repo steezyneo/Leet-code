@@ -1,3 +1,0 @@
-for(p = charnum.begin(); p!=charnum.end(); p++){
-        cout<<p->first<<" "<<p->second<<endl;
-}
