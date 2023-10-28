@@ -1,5 +1,7 @@
-#ignore all .exe files
+#ignore files
 *.exe
 *.vscode
 *.txt
 *tempCodeRunnerFile.cpp
+*tempCodeRunnerFile.py
+*tempCodeRunnerFile.java
