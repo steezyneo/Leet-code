@@ -2,7 +2,7 @@ def pivotIndex(nums: list[int]) -> int:
     left = []
     right = []
     k = 0
-    while k<len(nums):
+    while k < len(nums):
         left = nums[ :k]
         right = nums[k+1: ]
         if sum(left) == sum(right):
